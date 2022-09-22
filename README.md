@@ -5,3 +5,4 @@ Hope sounds like rope.
 
 Rope sounds like ...
 
+globe.
